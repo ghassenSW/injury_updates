@@ -5,6 +5,7 @@ import time
 import tweepy
 from datetime import datetime
 
+# these are old tokens you may need to regenerate new ones
 bearer_token = "AAAAAAAAAAAAAAAAAAAAAKSxwAEAAAAAvgGs4WP4xJdgJv19PvRPPsQXyLw%3DXRXe2GQelKx3ERIdtMBV8VGiKxXNUYTWA1rSxKPq0ewwydL71e"
 consumer_key = "5nVBklpC137d8SlUnsndAlflO"
 consumer_secret = "8jdg9r2AFP7LLj0OWxHwrc2fPYa2xvqt479aaBDw4yNhGSQGTN"
